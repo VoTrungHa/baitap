@@ -1,0 +1,13 @@
+package com.restfulApi.VoTrungHaW4;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VoTrungHaW4ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
